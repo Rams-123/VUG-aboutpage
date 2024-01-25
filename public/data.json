@@ -1,0 +1,288 @@
+[
+    {
+      "id": "governing-body",
+      "data": [
+        {
+          "id": 1,
+          "name": "Dr. P. V. Ramana",
+          "institute": "ITM Vocational University, Vadodara",
+          "status": "Chairman",
+          "img": "assets/faculty-img/ramana.webp"
+        },
+        {
+          "id": 2,
+          "name": "Prof. Nitin Putcha",
+          "institute": "ITM Vocational University, Vadodara",
+          "status": "Vice - president",
+          "img": "assets/faculty-img/nitin.webp"
+        },
+        {
+          "id": 3,
+          "name": "Dr. Anil Bisen",
+          "institute": "ITM Vocational University, Vadodara",
+          "status": "Provost",
+          "img": "assets/faculty-img/anil.webp"
+        },
+        {
+          "id": 4,
+          "name": "Prof. RSS Mani",
+          "institute": "ITM Group of Institutions",
+          "status": "Member",
+          "img": "assets/faculty-img/rss.webp"
+        },
+        {
+          "id": 5,
+          "name": "Dr. Lakshmi Mohan",
+          "institute": "ITM Business School, Kharghar, Mumbai",
+          "status": "Member",
+          "img": "assets/faculty-img/lakshmi.webp"
+        },
+        {
+          "id": 6,
+          "name": "Dr. Saritprava Das",
+          "institute": "ITM Business School, Kharghar, Mumbai",
+          "status": "Member",
+          "img": "assets/faculty-img/saritprava.webp"
+        },
+        {
+          "id": 7,
+          "name": "Ms. Minal Rane",
+          "institute": "ITM – IHS College of Nursing, Mumbai",
+          "status": "Member",
+          "img": "assets/faculty-img/minal.webp"
+        },
+        {
+          "id": 8,
+          "name": "Dr. Pandurang Chavhan",
+          "institute": "ITM Vocational University, Vadodara",
+          "status": "Member",
+          "img": "assets/faculty-img/pandurang.webp"
+        },
+        {
+          "id": 9,
+          "name": "Dr. Girish Panoli",
+          "institute": "ITM Vocational University, Vadodara",
+          "status": "Member",
+          "img": "assets/faculty-img/girish.webp"
+        },
+        {
+          "id": 10,
+          "name": "Mr. Sanjeev Muramkar",
+          "institute": "Adani Group, Mumbai",
+          "status": "Member",
+          "img": "assets/faculty-img/sanjeev.webp"
+        },
+        {
+          "id": 11,
+          "name": "Ms. Sejal Shah",
+          "institute": "ITM Vocational University, Vadodara",
+          "status": "Member",
+          "img": "assets/faculty-img/sejal.webp"
+        },
+        {
+          "id": 12,
+          "name": "Ms. Bharti Aindley",
+          "institute": "Mumbai",
+          "status": "Member",
+          "img": "assets/faculty-img/bharti.webp"
+        },
+        {
+          "id": 13,
+          "name": "Mr. R. V. Balasubramaniam Iyer",
+          "institute": "Reliance Industries, Mumbai",
+          "status": "Member",
+          "img": "assets/faculty-img/bala.webp"
+        },
+        {
+          "id": 14,
+          "name": "The Secretary",
+          "institute": "Higher & Tech. Education, Government of Gujarat, Gandinagar",
+          "status": "Member",
+          "img": "assets/faculty-img/secretary.webp"
+        },
+        {
+          "id": 15,
+          "name": "Mr. Dhrumil Shah",
+          "institute": "ITM Vocational University, Vadodara",
+          "status": "Member Secretary",
+          "img": "assets/faculty-img/dhrumil.webp"
+        }
+      ]
+    },
+
+    {
+        "id": "board-of-management",
+        "data": [
+          {
+            "id": 1,
+            "name": "Dr. P. V. Ramana",
+            "designation": "Chairman",
+            "img": "assets/faculty-img/ramana.webp"
+          },
+          {
+            "id": 2,
+            "name": "Prof. Nitin Putcha",
+            "designation": "Vice - president",
+            "img": "assets/faculty-img/nitin.webp"
+          },
+          {
+            "id": 3,
+            "name": "Dr. Anil Bisen",
+            "designation": "Provost",
+            "img": "assets/faculty-img/anil.webp"
+          },
+          {
+            "id": 4,
+            "name": "Prof. RSS Mani",
+            "designation": "Member",
+            "img": "assets/faculty-img/rss.webp"
+          },
+          {
+            "id": 5,
+            "name": "Mr. P. N. Hariharan",
+            "designation": "Member",
+            "img": "assets/faculty-img/hariharan.webp"
+          },
+          {
+            "id": 6,
+            "name": "Mr. Anupam Sinha",
+            "designation": "Member",
+            "img": "assets/faculty-img/anupam.webp"
+          },
+          {
+            "id": 7,
+            "name": "Dr. Girish Painoli",
+            "designation": "Member",
+            "img": "assets/faculty-img/girish.webp"
+          },
+          {
+            "id": 8,
+            "name": "Dr. Manoj Sharma",
+            "designation": "Member",
+            "img": "assets/faculty-img/manoj.webp"
+          },
+          {
+            "id": 9,
+            "name": "Dr. Pandurang Chavhan",
+            "designation": "Member",
+            "img": "assets/faculty-img/pandurang.webp"
+          },
+          {
+            "id": 10,
+            "name": "Mr. Kalpesh Parikh",
+            "designation": "Member",
+            "img": "assets/faculty-img/kalpesh.webp"
+          },
+          {
+            "id": 11,
+            "name": "Mr. Dhrumil Shah",
+            "designation": "Member Secretary",
+            "img": "assets/faculty-img/dhrumil.webp"
+          }
+        ]
+      },
+
+      {
+        "id" : "academic-council",
+        "data": [
+          {
+            "id" : 1,
+            "name" : "Dr. Anil M Bisen",
+            "designation" : "Chairman",
+            "img" : "assets/faculty-img/anil_bisen.webp"
+          },
+          {
+            "id" : 2,
+            "name" : "Prof. RSS Mani",
+            "designation" : "Member",
+            "img" : "assets/faculty-img/rss_mani.webp"
+          },
+          {
+            "id" : 3,
+            "name" : "Dr. Sameer Pachpute",
+            "designation" : "Member",
+            "img" : "assets/faculty-img/sameer_pachpute.webp"
+          },
+          {
+            "id" : 4,
+            "name" : "Dr. G. P. Vadodaria",
+            "designation" : "Member",
+            "img" : "assets/faculty-img/gp_vadodaria.webp"
+          },
+          {
+            "id" : 5,
+            "name" : "Dr. Ashok Bhansali",
+            "designation" : "Member",
+            "img" : "assets/faculty-img/ashok_bhansali.webp"
+          },
+          {
+            "id" : 6,
+            "name" : "Dr. Girish Painoli",
+            "designation" : "Member",
+            "img" : "assets/faculty-img/girish_painoli.webp"
+          },
+          {
+            "id" : 7,
+            "name" : "Dr. Ashutosh Tripathi",
+            "designation" : "Member",
+            "img" : "assets/faculty-img/ashutosh_tripathi.webp"
+          },
+          {
+            "id" : 8,
+            "name" : "Dr. Pooja Shukla",
+            "designation" : "Member",
+            "img" : "assets/faculty-img/pooja_shukla.webp"
+          },
+          {
+            "id" : 9,
+            "name" : "Dr. Anupama Mishra",
+            "designation" : "Member",
+            "img" : "assets/faculty-img/anupama_mishra.webp"
+          },
+          {
+            "id" : 10,
+            "name" : "Dr. Mayank Dev Singh",
+            "designation" : "Member",
+            "img" : "assets/faculty-img/mayank_dev_singh.webp"
+          },
+          {
+            "id" : 11,
+            "name" : "Ms. Komal Waldiya",
+            "designation" : "Member",
+            "img" : "assets/faculty-img/komal_waldiya.webp"
+          },
+          {
+            "id" : 12,
+            "name" : "Ms. Urmila Khant",
+            "designation" : "Member",
+            "img" : "assets/faculty-img/urmila_khant.webp"
+          },
+          {
+            "id" : 13,
+            "name" : "Mr. Mayur Chavda",
+            "designation" : "Member",
+            "img" : "assets/faculty-img/mayur_chavda.webp"
+          },
+          {
+            "id" : 14,
+            "name" : "Ms. Bital Patel",
+            "designation" : "Member",
+            "img" : "assets/faculty-img/bital_patel.webp"
+          },
+          {
+            "id" : 15,
+            "name" : "Mr. Amit Kapoor",
+            "designation" : "Member",
+            "img" : "assets/faculty-img/amit_kapoor.webp"
+          },
+          {
+            "id" : 16,
+            "name" : "Mr. Dhrumil Shah",
+            "designation" : "Member Secretary",
+            "img" : "assets/faculty-img/dhrumil_shah.webp"
+          }
+        ]
+      }
+    
+  ]
+  
